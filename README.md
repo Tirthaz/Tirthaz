@@ -28,6 +28,8 @@ Tools: Git, GitHub
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tirthaz&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Tirthaz&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🛠️ Tech Stack

@@ -12,9 +12,10 @@
 ---
 
 ## 🛠️ Tech Stack
-Languages: C, C++, Python, HTML, CSS, JavaScript 
+Languages: C, C++, Python
+Web Development- HTML, CSS, JavaScript,MongoDB
 Libraries: NumPy, Matplotlib, Pandas, Seaborn, Tensorflow, Keras
-Tools: Git, MongoDB, Firebase  
+Tools: Git, GitHub 
 
 ---
 
@@ -26,8 +27,7 @@ Tools: Git, MongoDB, Firebase
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirthaz&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tirthaz&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
